@@ -7,23 +7,22 @@
 
 ![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/kokarri_vibes.png)
 ![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/kokarri_vibes2.png)
-I highly recommend: 
-> Grilled octopus - "Octapodaki tou Yiorgou - grilled octopus with lemon, oregano & olive oil" 
+> <p> I highly recommend: </p> 
+> <p> Grilled octopus - "Octapodaki tou Yiorgou - grilled octopus with lemon, oregano & olive oil" </p> 
+> <p> Chilean seabass, a whole fish! </p> 
 ![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/kok_seabass.png)
-> Chilean seabass, a whole fish! 
+> <p> Dessert: Kataifi Ekmek - often not on the menu, you have to ask for it. Semolina custard is absurdly tasty.</p> 
 ![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/kok_dessert.png)
-> Dessert: Kataifi Ekmek - often not on the menu, you have to ask for it. Semolina custard is absurdly tasty.
 
 ## Mason Pacific
 #### 1358 Mason St, San Francisco, CA 94133
 <p> Quintessential Californinan style restaurant. Incredible attention to detail - from the design, to the way the staff describes items on the menu, to ofcourse the food. </p>
-
 ![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/masonpac_vibes.png)
 ![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/masonpac_vibes2.png)
+> <p> Best burger I've ever had. I'm not the type to get a burger at a nice restaurant, but this is the best burger of your life. </p>
 ![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/masonpac_burger.png)
-> Best burger I've ever had. I'm not the type to get a burger at a nice restaurant, but this is the best burger of your life. 
-![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/masonpac_octopus.png)
 > <p> Octopus is very well done </p>
+![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/masonpac_octopus.png)
 > <p> Panna Cotta is the best! </p>
 
 ## Blue Plate
@@ -31,7 +30,7 @@ I highly recommend:
 <p> Comfort food at it's finest - known for their fried chicken </p>
 ![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/blueplate_vibes.png)
 ![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/blueplate_keylime.png)
-> The key lime pie is to die for 
+> <p> The key lime pie is to die for </p>
 
 ## Beretta
 ### 1199 Valencia St, San Francisco, CA 94110
