@@ -1,7 +1,7 @@
 # The Best Restaurants in San Francisco 
 
 
-## Kokkari Estiatorio
+## 1. Kokkari Estiatorio
 #### 200 Jackson St, San Francisco, CA 9411 
 <p> Warm, romantic ambiance, attentive service, drool-worthy food. The best restaurant in SF.</p>
 
@@ -14,7 +14,7 @@
 > <p> Dessert: Kataifi Ekmek - often not on the menu, you have to ask for it. Semolina custard is absurdly tasty.</p> 
 ![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/kok_dessert.png)
 
-## Mason Pacific
+## 2. Mason Pacific
 #### 1358 Mason St, San Francisco, CA 94133
 <p> Quintessential Californinan style restaurant. Incredible attention to detail - from the design, to the way the staff describes items on the menu, to ofcourse the food. </p>
 ![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/masonpac_vibes.png)
@@ -25,14 +25,12 @@
 ![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/masonpac_octopus.png)
 > <p> Panna Cotta is the best! </p>
 
-## Blue Plate
-#### 3218 Mission St, San Francisco, CA 94110
-<p> Comfort food at it's finest - known for their fried chicken </p>
-![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/blueplate_vibes.png)
-![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/blueplate_keylime.png)
-> <p> The key lime pie is to die for </p>
+## 3. Foreign Cinema
+#### 2534 Mission St, San Francisco, CA 94110
+<p> Super cute place to take a date. Get dinner outside (don't worry there are heated lamps) and watch a movie while you munch. </p>
+![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/foreigncinema_vibes.png)
 
-## Beretta
+## 4. Beretta
 ### 1199 Valencia St, San Francisco, CA 94110
 <p> Open super late, long waits at dinner time but get can walk in and get a table later in the evening. 
 Great vibe - always buzzing with folks, good for a first date or to hang out late with a few friends. Pretty cheap for sf. </p>
@@ -41,11 +39,26 @@ Great vibe - always buzzing with folks, good for a first date or to hang out lat
 > <p> The salted olive oil ice cream is excellent </p>
 ![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/beretta_pizza.png)
 
-## Foreign Cinema
-#### 2534 Mission St, San Francisco, CA 94110
-<p> Super cute place to take a date. Get dinner outside (don't worry there are heated lamps) and watch a movie while you munch. </p>
-![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/foreigncinema_vibes.png)
+## 5. Blue Plate
+#### 3218 Mission St, San Francisco, CA 94110
+<p> Comfort food at it's finest - known for their fried chicken </p>
+![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/blueplate_vibes.png)
+![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/blueplate_keylime.png)
+> <p> The key lime pie is to die for </p>
 
+## Honorable Mentions
+
+### Italian Homemade Company
+#### 1919 Union St, San Francisco, CA 94123
+> Really good pasta 
+
+### Basil Thai
+#### 1175 Folsom St, San Francisco, CA 94103
+> Seabass curry!
+
+### Aslam's Rasoi
+#### 1037 Valencia St, San Francisco, CA 94110
+> Butter chicken, chai 
 
 # Sausalito
 
