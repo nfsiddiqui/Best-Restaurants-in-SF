@@ -34,9 +34,9 @@
 
 ## Beretta
 ### 1199 Valencia St, San Francisco, CA 94110
-![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/beretta_vibes.png)
 <p> Open super late, long waits at dinner time but get can walk in and get a table later in the evening. 
 Great vibe - always buzzing with folks, good for a first date or to hang out late with a few friends. Pretty cheap for sf. </p>
+![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/beretta_vibes.png)
 > <p> The mushroom pizza is excellent </p> 
 > <p> The salted olive oil ice cream is excellent </p>
 ![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/beretta_pizza.png)
