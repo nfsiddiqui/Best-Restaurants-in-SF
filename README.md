@@ -36,15 +36,15 @@
 Great vibe - always buzzing with folks, good for a first date or to hang out late with a few friends. Pretty cheap for sf. </p>
 ![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/beretta_vibes.png)
 > <p> The mushroom pizza is excellent </p> 
-> <p> The salted olive oil ice cream is excellent </p>
 ![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/beretta_pizza.png)
+> <p> The salted olive oil ice cream is excellent </p>
 
 ## 5. Blue Plate
 #### 3218 Mission St, San Francisco, CA 94110
 <p> Comfort food at it's finest - known for their fried chicken </p>
 ![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/blueplate_vibes.png)
-![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/blueplate_keylime.png)
 > <p> The key lime pie is to die for </p>
+![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/blueplate_keylime.png)
 
 ## Honorable Mentions
 
