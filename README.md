@@ -50,7 +50,7 @@ Great vibe - always buzzing with folks, good for a first date or to hang out lat
 
 ### Italian Homemade Company
 #### 1919 Union St, San Francisco, CA 94123
-> Really good pasta 
+> Really good pasta. I recommend the beef ravioli.  
 
 ### Basil Thai
 #### 1175 Folsom St, San Francisco, CA 94103
@@ -59,6 +59,10 @@ Great vibe - always buzzing with folks, good for a first date or to hang out lat
 ### Aslam's Rasoi
 #### 1037 Valencia St, San Francisco, CA 94110
 > Butter chicken, chai 
+
+### Burma Superstar
+#### 309 Clement St, San Francisco, CA 94118
+> Samusa Soup is very good! 
 
 # Sausalito
 
