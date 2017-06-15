@@ -100,3 +100,6 @@ Great vibe - always buzzing with folks, good for a first date or to hang out lat
 
 ![Preview](https://github.com/nfsiddiqui/Best-Restaurants-in-SF/blob/master/legarage_oysters.png)
 
+# License
+
+Copyright (c) Noor Siddiqui
